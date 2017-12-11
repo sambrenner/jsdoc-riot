@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "riot-compiler": "2.3.22"
+    "riot-compiler": "3.3.0"
   },
   "devDependencies": {},
   "peerDependencies": {},
